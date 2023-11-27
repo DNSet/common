@@ -1,0 +1,16 @@
+<mxfile host="Electron" modified="2024-01-17T07:02:09.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.1 Chrome/112.0.5615.204 Electron/24.6.0 Safari/537.36" etag="HVrbkv6Ozy0GTTgSB2W1" version="21.5.1" type="device">
+  <diagram name="第 1 页" id="R_BdfXhPTXfU9Arhsoh3">
+    <mxGraphModel dx="3035" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="la7wb_2hoozZo2nokERF-2" value="&lt;font color=&quot;#4285f4&quot; style=&quot;font-size: 200px;&quot;&gt;D&lt;/font&gt;&lt;font color=&quot;#ea4335&quot; style=&quot;font-size: 200px;&quot;&gt;N&lt;/font&gt;&lt;font color=&quot;#fbbc05&quot; style=&quot;font-size: 200px;&quot;&gt;S&lt;/font&gt;&lt;font color=&quot;#34a853&quot; style=&quot;font-size: 200px;&quot;&gt;e&lt;/font&gt;&lt;font color=&quot;#ea4335&quot; style=&quot;font-size: 200px;&quot;&gt;t&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=200;fontStyle=1;glass=0;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="400" width="640" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="la7wb_2hoozZo2nokERF-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=10;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="160" width="640" height="640" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
